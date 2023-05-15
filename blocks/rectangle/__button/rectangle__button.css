@@ -1,0 +1,8 @@
+.rectangle__button {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background-color: #000000;
+  margin: 0 6px 0 4px;
+  box-sizing: border-box;
+}

@@ -1,0 +1,10 @@
+.footer__description {  
+  width: 1168px;;
+  height: 436px;
+  margin: 0 auto;
+  padding-top: 200px;
+  box-sizing: border-box;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}

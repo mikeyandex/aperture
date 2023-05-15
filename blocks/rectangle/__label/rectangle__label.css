@@ -1,0 +1,9 @@
+.rectangle__label {
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 2px;
+  text-transform: uppercase;  
+  color: #FFFFFF;
+  margin: 0 0 10px 30px;
+  padding: 0px;
+}

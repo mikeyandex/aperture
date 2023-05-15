@@ -1,0 +1,9 @@
+.panorama__photodata {
+display: flex;
+justify-content: space-between;
+width: 278px;
+height: 16px;
+margin-right: 42px;
+float: right;
+margin-top: 13px;
+}

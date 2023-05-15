@@ -1,0 +1,14 @@
+.header__menu {
+display: flex;
+justify-content: space-between;
+width: 520px;
+list-style: none; 
+padding: 0;
+margin-right: 4px;
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 20px;
+/* identical to box height, or 154% */
+color: #FFFFFF;
+}

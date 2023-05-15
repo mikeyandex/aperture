@@ -1,0 +1,11 @@
+.footer__networks {
+  width: 24px;
+  height: 24px;
+  object-fit: none;
+  margin-right: 20px;
+  box-sizing: border-box;
+}
+
+.footer__networks:last-child {
+  margin-left: 5px;
+}

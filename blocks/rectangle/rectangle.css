@@ -1,0 +1,5 @@
+.rectangle {
+  width: 1440px;
+  min-height: fit-content;
+  background-color: #000000 ;
+}

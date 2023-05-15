@@ -1,0 +1,11 @@
+.footer__subscribe {
+  width: 1168px;
+  height: 135px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  border-top: 2px solid #ffffff;
+  border-bottom: 2px solid #ffffff;
+  box-sizing: border-box;
+  padding-top: 20px;
+  margin: 0 auto;
+}

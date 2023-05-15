@@ -1,0 +1,6 @@
+.panorama__cell {
+  display: flex;
+  justify-content: space-between;
+  width: max-content;
+  
+}

@@ -1,0 +1,10 @@
+.rectangle__table {
+  display: grid;
+  width: 1168px;
+  height: 1216px;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  gap: 16px;
+  margin: 0 auto;
+  padding-bottom: 100px; 
+}

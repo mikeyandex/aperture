@@ -1,0 +1,13 @@
+.footer__button-field-subscribe {
+  width: 458px;
+  height: 52px;
+  background: #F9FAFB;
+  border: 1px solid #E5E7EB;
+  border-radius: 12px;
+  box-sizing: border-box;
+  justify-self: right;
+  margin-top: 20px;
+  display: flex;
+  justify-content: right;
+  align-items: center;
+}

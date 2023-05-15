@@ -1,0 +1,9 @@
+.clients__logo-container {
+  width: 1440px;
+  height: 78px;
+  padding: 0 182px 0 182px;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: space-between;
+}
+

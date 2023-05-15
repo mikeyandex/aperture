@@ -1,0 +1,7 @@
+.rectangle__cell {
+  width: 576px;
+  height: 600px;
+  object-fit: cover;
+  padding-top: 421px;
+  box-sizing: border-box;
+}

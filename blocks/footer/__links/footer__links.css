@@ -1,0 +1,6 @@
+.footer__links {
+  width: 114px;
+  height: min-content;
+  display: flex;
+  justify-content: space-between;
+}

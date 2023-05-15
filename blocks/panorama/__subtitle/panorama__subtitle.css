@@ -1,0 +1,11 @@
+.panorama__subtitle {
+  font-size: 14px;
+  line-height: 20px;
+  text-align: center;;
+  letter-spacing: 2px;
+  text-transform: uppercase;  
+  color: #C0C0C0;
+  padding-top: 462px;
+  box-sizing: border-box;
+  margin: 0;
+}

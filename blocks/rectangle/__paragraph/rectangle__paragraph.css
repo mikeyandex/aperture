@@ -1,0 +1,9 @@
+.rectangle__paragraph {
+text-align: left;
+width: 576px;
+display: block;
+padding: 0 30px 0px 30px;
+margin: 0;
+box-sizing: border-box;
+
+}

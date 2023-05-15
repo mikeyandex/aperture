@@ -1,0 +1,9 @@
+.footer__rights {
+  width: 1168px;
+  height: 180px;
+  margin: 0 auto;
+  padding-top: 56px;
+  display: flex;
+  justify-content: space-between;
+  box-sizing: border-box;
+}
