@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Poppins-Regular';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  /* Браузер сначала попробует найти шрифт локально */
+  src: local("Poppins-Regular"),
+       /* Если не получилось, загрузит woff2 */
+       url(./Poppins-Regular.woff) format('woff2'),
+       /* Если браузер не поддерживает woff2, загрузит woff */
+       url(./Poppins-Regular.woff2) format('woff');
+}
